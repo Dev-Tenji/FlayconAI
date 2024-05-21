@@ -1,0 +1,34 @@
+SizedBox(
+                  height: 150,
+                  width: 210,
+                  child: 
+                ),
+
+                {
+  "modelId": "string",
+  "systemPrompt": "string",
+  "history": [
+    {
+      "userPrompt": "string",
+      "assistantResponse": "string"
+    }
+  ],
+  "userPrompt": "string",
+  "seed": 0,
+  "maxTokens": 0,
+  "temperature": 0.1,
+  "topP": 0.1,
+  "topK": 0,
+  "frequencyPenalty": 0.1,
+  "logitBias": {
+    "property1": 0,
+    "property2": 0
+  },
+  "n": 0,
+  "presencePenalty": 0.1,
+  "stop": [
+    "string"
+  ],
+  "maxInputTokens": 0
+}
+.dart_tool\build\generated\flayconai_v2\lib\hugger.hive_generator.g.part
